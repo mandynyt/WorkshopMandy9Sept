@@ -30,3 +30,9 @@ address {
   margin-top: 1em;
   padding-top: 1em;
   border-top: thin dotted }
+
+  #special_box {
+  border-style: solid;
+  border-color:blue
+  background-color: green
+  }
